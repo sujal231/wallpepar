@@ -17,6 +17,7 @@ class WallpaperAdapter : RecyclerView.Adapter<WallpaperAdapter.wallpaperHolder>(
 
     class wallpaperHolder(itemView: WallpeparitemBinding) : ViewHolder(itemView.root) {
         var binding = itemView
+
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): wallpaperHolder {
