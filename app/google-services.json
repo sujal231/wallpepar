@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238960587667",
+    "project_id": "hii-5fac7",
+    "storage_bucket": "hii-5fac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238960587667:android:2b49c5edb5adf65074ae66",
+        "android_client_info": {
+          "package_name": "com.example.wallpepar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238960587667-1tgmvb7d62j7kr22h5g9bucs1padlf4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv107sR194MhGe0w6m0T4BbE-YXgn2tMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238960587667-1tgmvb7d62j7kr22h5g9bucs1padlf4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
